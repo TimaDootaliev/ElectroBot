@@ -1,0 +1,6 @@
+requests
+BeautifulSoup4
+aiogram
+psycopg2-binary
+peewee
+python-decouple
